@@ -1,6 +1,9 @@
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
 <h1 align="center">Hi , I'm Quốc Lâm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5004&center=true&vCenter=true&lines=Front+End+Developer;Friendly;Java+OOP;Software+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5004&center=true&vCenter=true&lines=Front+End+Developer;Friendly;Java+OOP;Software+Engineer;Sushi;Happy;Sweet" alt="Typing SVG" /></a>
 </p>
 
 
@@ -110,7 +113,7 @@
 </p>
 
  ### 👉 Operating Systems
- 
+
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>  
 </p>
@@ -125,6 +128,9 @@
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=quoclam-doit&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=quoclam-doit&theme=algolia&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
@@ -144,7 +150,15 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quoclam-doit&layout=compact&theme=algolia" alt="quoclam-doit" /></a> </p>
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quoclam-doit&layout=compact&theme=algolia" alt="quoclam-doit" /></a> 
 
+</p>
+
+<br/>
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+</div>
 -----
 Credits: [QuocLam-Doit](https://github.com/quoclam-doit)
