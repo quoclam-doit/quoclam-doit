@@ -12,14 +12,13 @@
 
 <br>
 
+
 ## :sassy_man:  About me
 - :school: I am a `Intership` at Faculty of Information Technology at FPT University
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Front End Developer` and `Software Engineering`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://github.com/quoclam-doit/MY-RESUME/blob/main/CV-INTERSHIP.pdf).
 - :nerd_face: Always `learning new things`
-
-
 <br>
 
 ## 🔥 Streak Stats
@@ -127,12 +126,14 @@
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=quoclam-doit&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://www.youtube.com/watch?v=46EjkkDo00g"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=quoclam-doit&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quoclam-doit&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
   <br/>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
