@@ -4,13 +4,13 @@
 <h1 align="center">Hi , I'm Quốc Lâm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5004&center=true&vCenter=true&lines=Front+End+Developer;Friendly;Java+OOP;Software+Engineer;Sushi;Happy;Sweet" alt="Typing SVG" /></a>
+
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+
 </p>
 
-
 <br>
-
-
-
 
 ## :sassy_man:  About me
 - :school: I am a `Intership` at Faculty of Information Technology at FPT University
@@ -18,6 +18,7 @@
 - :student: I’m currently learning: `Front End Developer` and `Software Engineering`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://github.com/quoclam-doit/MY-RESUME/blob/main/CV-INTERSHIP.pdf).
 - :nerd_face: Always `learning new things`
+
 
 <br>
 
@@ -130,10 +131,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=quoclam-doit&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=quoclam-doit&theme=algolia&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quoclam-doit&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
