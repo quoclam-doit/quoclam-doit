@@ -128,10 +128,10 @@
   <br/>
   <a href="https://www.youtube.com/watch?v=8ju5LWh93wg"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   <p align="center">
-    <a href=""><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=quoclam-doit&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href=""><img alt="Quoc Lam Github Stats" src="https://github-readme-stats.vercel.app/api?username=quoclam-doit&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quoclam-doit&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quoclam-doit&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="quoclam-doit" height="192px"/>
   <br/>
   <a href="https://www.youtube.com/watch?v=46EjkkDo00g"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
