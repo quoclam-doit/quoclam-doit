@@ -13,7 +13,7 @@
 - :school: I am a `Intership` at Faculty of Information Technology at FPT University
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Front End Developer` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://github.com/quoclam-doit/MY-RESUME).
 - :nerd_face: Always `learning new things`
 
 <br>
