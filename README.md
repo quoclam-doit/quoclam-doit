@@ -1,7 +1,7 @@
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
-<h1 align="center">Hi , I'm Quốc Lâm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Quốc Lâm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5004&center=true&vCenter=true&lines=Front+End+Developer;Friendly;Java+OOP;Software+Engineer;Sushi;Happy;Sweet" alt="Typing SVG" /></a>
 
